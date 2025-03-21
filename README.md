@@ -66,15 +66,13 @@ The fastest way to get started is using the Shopify CLI:
 ```bash
 # Create a new app using the Shopify CLI
 npm create @shopify/app@latest
-# When prompted, select "Remix" as your framework
-# Follow the prompts to set up your app
 ```
 
 Or if you're cloning this repository directly:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Shopify/shopify-app-remix-template.git your-app-name
+git clone https://github.com/RMNCLDYO/shopify-app-starter.git your-app-name
 
 # Navigate to the project directory
 cd your-app-name
@@ -518,16 +516,12 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
 
 We welcome contributions to improve this template! Here's how you can help:
 
-1. **Report Issues**: Found a bug or have a feature request? [Open an issue](https://github.com/Shopify/shopify-app-template-remix/issues/new).
-2. **Fix Issues**: Check our [open issues](https://github.com/Shopify/shopify-app-template-remix/issues) to find something to work on.
+1. **Report Issues**: Found a bug or have a feature request? [Open an issue](https://github.com/RMNCLDYO/shopify-app-starter/issues/new).
+2. **Fix Issues**: Check our [open issues](https://github.com/RMNCLDYO/shopify-app-starter/issues) to find something to work on.
 3. **Submit PRs**: Submit pull requests with bug fixes or enhancements.
 
-Please follow our [contribution guidelines](https://github.com/Shopify/shopify-app-template-remix/blob/main/.github/CONTRIBUTING.md) when submitting code.
+Please follow our [contribution guidelines](https://github.com/RMNCLDYO/shopify-app-starter/blob/main/.github/CONTRIBUTING.md) when submitting code.
 
 ## License
 
 This template is available under the [MIT](./LICENSE) license.
-
----
-
-Built with ❤️ by Shopify
