@@ -516,12 +516,8 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
 
 We welcome contributions to improve this template! Here's how you can help:
 
-1. **Report Issues**: Found a bug or have a feature request? [Open an issue](https://github.com/RMNCLDYO/shopify-app-starter/issues/new).
-2. **Fix Issues**: Check our [open issues](https://github.com/RMNCLDYO/shopify-app-starter/issues) to find something to work on.
+1. **Report Issues**: Found a bug or have a feature request? [Open an issue](https://github.com/Shopify/shopify-app-template-remix/issues/new).
+2. **Fix Issues**: Check the [open issues](https://github.com/Shopify/shopify-app-template-remix/issues) to find something to work on.
 3. **Submit PRs**: Submit pull requests with bug fixes or enhancements.
 
-Please follow our [contribution guidelines](https://github.com/RMNCLDYO/shopify-app-starter/blob/main/.github/CONTRIBUTING.md) when submitting code.
-
-## License
-
-This template is available under the [MIT](./LICENSE) license.
+Please follow the [contribution guidelines](https://github.com/Shopify/shopify-app-template-remix/blob/main/.github/CONTRIBUTING.md) when submitting code.
